@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>msg_experiments</name>
+  <version>0.1.0</version>
+  <description>
+    messages for experimentation
+  </description>
+  <maintainer email="gary.hendrick.fellow@sofwerx.org">Gary Hendrick</maintainer>
+  <license>BSD</license>
+
+  <author>Gary Hendrick</author>
+  
+  <!-- Dependencies -->
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>std_msgs</build_depend>
+</package>
