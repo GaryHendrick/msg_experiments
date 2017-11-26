@@ -1,0 +1,12 @@
+time[] user
+time[] system
+time[] idle
+time[] nice
+time[] iowait
+time[] irq
+time[] softirq
+time[] steal
+time[] guest
+time[] guest_nice
+time[] interrupt
+time[] dpc
